@@ -1,4 +1,4 @@
-# forkphorus
+# Quick-Games
 
 [forkphorus.github.io](https://forkphorus.github.io)
 
